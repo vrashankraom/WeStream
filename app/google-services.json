@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166930698424",
+    "project_id": "westream-dfedc",
+    "storage_bucket": "westream-dfedc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166930698424:android:a0b4509af7671479bbe44d",
+        "android_client_info": {
+          "package_name": "com.example.westream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166930698424-nt6rch0j4ue674o4kug5clanuo8q3bin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Xj6Fsx-4GSZRA3V5wGH90B699RbhzKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166930698424-nt6rch0j4ue674o4kug5clanuo8q3bin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
